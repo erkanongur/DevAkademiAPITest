@@ -1,0 +1,1106 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "sellerID": {
+          "type": "string"
+        },
+        "sellerType": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "date": {
+          "type": "integer"
+        },
+        "expiryDate": {
+          "type": "integer"
+        },
+        "live": {
+          "type": "boolean"
+        },
+        "status": {
+          "type": "string"
+        },
+        "adminID": {
+          "type": "integer"
+        },
+        "categories": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sellerID",
+        "sellerType",
+        "title",
+        "description",
+        "price",
+        "date",
+        "expiryDate",
+        "live",
+        "status",
+        "adminID",
+        "categories",
+        "id"
+      ]
+    }
+  ]
+}

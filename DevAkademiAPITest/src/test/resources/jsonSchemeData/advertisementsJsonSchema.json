@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "category": {
+          "type": "string"
+        },
+        "impressionCount": {
+          "type": "integer"
+        },
+        "clickCount": {
+          "type": "integer"
+        },
+        "content": {
+          "type": "string"
+        },
+        "contentType": {
+          "type": "string"
+        },
+        "createdDate": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "category",
+        "impressionCount",
+        "clickCount",
+        "content",
+        "contentType",
+        "createdDate"
+      ]
+    }
+  },
+  "required": [
+    "data"
+  ]
+}

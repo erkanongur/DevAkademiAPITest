@@ -1,0 +1,554 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "classifiedId": {
+              "type": "integer"
+            },
+            "createdDate": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "number"
+            },
+            "discount": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "id",
+            "classifiedId",
+            "createdDate",
+            "amount",
+            "discount"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "data"
+  ]
+}

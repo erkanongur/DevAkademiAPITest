@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "data": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "userId": {
+          "type": "integer"
+        },
+        "endpoint": {
+          "type": "string"
+        },
+        "createdDate": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "userId",
+        "endpoint",
+        "createdDate"
+      ]
+    }
+  },
+  "required": [
+    "data"
+  ]
+}
